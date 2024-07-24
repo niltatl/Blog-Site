@@ -1,0 +1,3 @@
+[build]
+  command = "if [ ! -d 'build' ]; then mkdir build; fi && npm run build"
+  publish = "build"
