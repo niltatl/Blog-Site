@@ -1,0 +1,46 @@
+.add-new-blog-form {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  gap: 10px;
+  color: #fff;
+}
+.title2 {
+  font-weight: bold;
+  display: flex;
+  margin-right: 200px;
+  
+}
+.add-new-blog-form div {
+  display: flex;
+  flex-direction: column;
+}
+.add-new-blog-form label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-weight: bold;
+}
+.add-new-blog-form input,
+.add-new-blog-form textarea {
+  padding: 8px;
+  height: 10px;
+  width: 200px;
+  margin-right: 200px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+.add-new-blog-form button {
+  padding: 10px 20px;
+  height: auto;
+  width: 150px;
+  border: none;
+  border-radius: 20px;
+  background-color:#3eadc9;
+  color: white;
+  font-size: 1em;
+  cursor: pointer;
+}
+.add-new-blog-form button:hover {
+  background-color: #a8a8e6;
+}
