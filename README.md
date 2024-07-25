@@ -1,8 +1,21 @@
-# React + Vite
+# MyBlog-Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Vite ve React kullanılarak oluşturulmuş bir blog uygulamasıdır ve Netlify üzerinde yayınlanmıştır.
 
-Currently, two official plugins are available:
+## Başlangıç
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bu talimatlar, projenizi yerel makinenizde nasıl çalıştıracağınızı ve geliştireceğinizi anlatacaktır.
+
+### Gereksinimler
+
+- Node.js (>=14.0.0)
+- npm veya yarn
+
+### Kurulum
+
+Projeyi klonlayın ve bağımlılıkları yükleyin:
+
+```bash
+git clone https://github.com/your-username/myblog-page.git
+cd myblog-page
+npm install
